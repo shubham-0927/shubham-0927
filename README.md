@@ -1,11 +1,11 @@
+THIS IS 
+WHAC A GAME
+
 - 👋 Hi, I’m @shubham-0927
 - 👀 I’m interested in ... programing,coding and reading
 - 🌱 I’m currently learning ... web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-THIS IS 
-WHAC A GAME
+
 
 
 <!---
