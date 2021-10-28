@@ -1,5 +1,4 @@
-THIS IS 
-WHAC A GAME
+
 
 - 👋 Hi, I’m @shubham-0927
 - 👀 I’m interested in ... programing,coding and reading
