@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @shubham-0927
 - 👀 I’m interested in ... programing,coding and reading
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... web development and competetive programming
 
 
 
